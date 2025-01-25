@@ -33,7 +33,7 @@ The youtube.comClone project aims to replicate the appearance and basic function
 
   1. Clone the repository to your local machine:
      ```bash/cmd/powershell
-     git clone https://github.com/Zeke-Codes/youtube.comClone.git
+     git clone https://github.com/zeke614/youtube.comClone.git
 
 
 ## Usage
